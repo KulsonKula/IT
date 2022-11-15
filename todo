@@ -2,7 +2,8 @@
 
 [X] Poprawić wszystkie nazwy na ang
 [] Zabezpiczyć logowanie przed wstrzykiwaniem
-[] Ogarnać zeby strona logowania i rejestrowania ładnie wyglądała
+[X] Ogarnać zeby strona logowania ładnie wyglądała
+[] Ogarnać zeby strona rejestrowania ładnie wyglądała
 [] Ogarnać baze danych
 [] Poprosic kogos o sprawdzenie
 [] zrobić rejestrowaniai je Zabezpiczyć
