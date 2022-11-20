@@ -1,9 +1,9 @@
 14.11
 
 [X] Poprawić wszystkie nazwy na ang
-[] Zabezpiczyć logowanie przed wstrzykiwaniem
+[X] Zabezpiczyć logowanie przed wstrzykiwaniem
+[X] Ogarnać baze danych
 [X] Ogarnać zeby strona logowania ładnie wyglądała
 [] Ogarnać zeby strona rejestrowania ładnie wyglądała
-[X] Ogarnać baze danych
 [] zrobić rejestrowaniai je Zabezpiczyć
-[] szyfrowanie haseł
+[X] szyfrowanie haseł
