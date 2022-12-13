@@ -10,5 +10,14 @@
 
 21.11
 
-[] moze zapamietywanie rzeczy do rejestacji
-[] wyświeltanie habitow
+[X] moze zapamietywanie rzeczy do rejestacji
+[X] wyświeltanie habitow
+
+12.12
+
+[X] optymalizacja - castowanie boola na boola  //if (ctype_alnum($login) == false) -> if (!ctype_alnum($login))
+[X] bugfix - usuwanie habitu nie usuwa z tabeli info
+[] bugfix - literówki
+[] lepsze wyswietlanie streaków - ZROBIONE ale poprawić linike 62 i 63
+[] sprawdzenie kodu, próby optymalizacji
+[] ochrona przed wstrzsyskiwaniem w logowaniu
