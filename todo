@@ -10,14 +10,17 @@
 
 21.11
 
-[X] moze zapamietywanie rzeczy do rejestacji
 [X] wyświeltanie habitow
 
 12.12
+w tym tygodniu prace serwisowe za duzo roboty na studia XDDDDDDDD wiec wybraliśmy sobie pare rzeczy które jestesmy pewni ze nie zajmie
+nam zbyt długo. it ain't much but its honest work
 
 [X] optymalizacja - castowanie boola na boola  //if (ctype_alnum($login) == false) -> if (!ctype_alnum($login))
 [X] bugfix - usuwanie habitu nie usuwa z tabeli info
-[] bugfix - literówki
-[] lepsze wyswietlanie streaków - ZROBIONE ale poprawić linike 62 i 63
+[X] bugfix - literówki
+[X] lepsze wyswietlanie streaków 
 [] sprawdzenie kodu, próby optymalizacji
-[] ochrona przed wstrzsyskiwaniem w logowaniu
+[X/O] ochrona przed wstrzsyskiwaniem w logowaniu - zrobione w połowie
+[] ogarniecie bazy danych pod względem wielkości zmiennych
+[X] formatowanie wygladu pliku .php bo zrobiły sie lekko nie czytelne
