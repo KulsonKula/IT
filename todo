@@ -21,6 +21,6 @@ nam zbyt długo. it ain't much but its honest work
 [X] bugfix - literówki
 [X] lepsze wyswietlanie streaków 
 [] sprawdzenie kodu, próby optymalizacji
-[X/O] ochrona przed wstrzsyskiwaniem w logowaniu - zrobione w połowie
-[] ogarniecie bazy danych pod względem wielkości zmiennych
+[X] ochrona przed wstrzsyskiwaniem w logowaniu - zrobione w połowie
+[X] ogarniecie bazy danych pod względem wielkości zmiennych
 [X] formatowanie wygladu pliku .php bo zrobiły sie lekko nie czytelne
